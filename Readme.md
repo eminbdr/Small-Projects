@@ -1,6 +1,7 @@
 ### Nature Extractor
 
 "Nature" Extractor is a program to scan all nature journals and return new articles that are published at chosen date. Written using Html and Python in Jupyter Framework.
+Edit which magazines to follow by editing MagToScan.txt file
 
 
 ### Website For Bedirhan Zemin 
